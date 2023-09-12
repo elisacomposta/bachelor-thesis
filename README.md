@@ -1,4 +1,4 @@
-# Promoting Quality Diversity in Soft Robot co-design evolution
+## Promoting Quality Diversity in Soft Robot co-design evolution
 
 **Supervisor**     &emsp;&emsp;&nbsp; Giovanni Iacca <br>
 **Co-supervisor**  &nbsp;&nbsp;&nbsp; Andrea Ferigo <br>
